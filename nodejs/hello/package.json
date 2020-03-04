@@ -1,0 +1,14 @@
+{
+  "name": "hello",
+  "version": "0.0.1",
+  "description": "nodejs with docker",
+  "author": "demo-apps",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.16.1"
+  }
+}
